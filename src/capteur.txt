@@ -1,0 +1,14 @@
+eet testo610 humidite non_defectueux eeee 5 6 2020 0 0 0 
+eetg testo610 humidite non_defectueux eeee 5 6 2020 0 0 0 
+8 testo610 humidite non_defectueux eeee 5 6 2020 0 0 0 
+ee css014 humidite défectueux ee 5 3 2020 1 1 2020 
+11 css014 humidite défectueux ee 5 3 2020 1 1 2020 
+330 css014 humidite défectueux ee 5 3 2020 1 1 2020 
+112 testo610 humidite défectueux ee 5 3 2020 1 1 2020 
+eetgn testo610 temperature défectueux eeeee 5 3 2020 1 5 2020 
+bbb testo610 temperature défectueux jjj 5 3 2020 1 5 2020 
+33 testo610 temperature défectueux jjj 5 3 2020 1 5 2020 
+899 testo610 temperature défectueux jjj 5 3 2020 1 5 2020 
+8999 testo610 temperature défectueux jjj 5 3 2020 1 5 2020 
+5 css014 humidite défectueux jjjj 8 3 2020 1 5 2020 
+89 css014 temperature défectueux jjjjp 8 3 2020 1 5 2020 

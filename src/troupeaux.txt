@@ -1,0 +1,4 @@
+Poulet femelle 3 20 4 2022 EnBonneEtat
+Mouton femelle 4 20 4 2022 EnBonneEtat
+Vache femelle 9454 5 11 2019 EnBonneEtat
+Chevaux femelle 88 1 12 2020 EnBonneEtat
